@@ -1,0 +1,26 @@
+msgid "Único pago de %s"
+msgstr "Single payment of %s"
+
+msgid "1º pago hoy de %s"
+msgstr "1st payment today of %s"
+
+msgid "Resto de pagos: %s"
+msgstr "Remaining payments: %s"
+
+msgid "%sº pago el %s"
+msgstr "%sº payment on %s"
+
+msgid "%s cada %s%s, hasta cancelar"
+msgstr "%s every %s%s, until canceled"
+
+msgid "día"
+msgstr "day"
+
+msgid "semana"
+msgstr "week"
+
+msgid "mes"
+msgstr "month"
+
+msgid "año"
+msgstr "year"
